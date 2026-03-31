@@ -88,7 +88,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/prathameshchavan23/Cdac-Project
+git clone https://github.com/Ritesh-C07/StudentERPSystem
 ```
 
 change folder
